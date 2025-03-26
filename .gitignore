@@ -1,5 +1,18 @@
+# Node & Yarn
 /node_modules
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
-cypress/downloads/
+
+# Cypress output
+/cypress/downloads/
+/cypress/screenshots/
+/cypress/videos/
+
+# Cypress cache & config state
+/.cache/
+/cypress/.cache/
+
+# System files
+.DS_Store
+Thumbs.db

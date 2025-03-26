@@ -1,0 +1,18 @@
+{
+    "com": {
+      "confirmText": "Yes, delete",
+      "invoiceDeletedNotification": "Invoice deleted.",
+      "contactDeletedMessagePart": "has been successfully deleted"
+    },
+    "cz": {
+      "confirmText": "Ano smazat",
+      "invoiceDeletedNotification": "Faktura byla smazána",
+      "contactDeletedMessagePart": "úspěšně smazán."
+    },
+    "sk": {
+      "confirmText": "Áno zmazať",
+      "invoiceDeletedNotification": "Faktúra bola vymazaná.",
+      "contactDeletedMessagePart": "bol úspešne zmazaný."
+    }
+  }
+  

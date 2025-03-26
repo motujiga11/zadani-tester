@@ -1,0 +1,38 @@
+{
+    "testContact": {
+      "name": "Apple Tour s.r.o.",
+      "companyNumber": "64652556",
+      "taxNumber": "CZ64652556",
+      "phone": "",
+      "email": "",
+      "web": "",
+      "street": "Komenského 19",
+      "city": "Jablonec nad Nisou",
+      "postcode": "46601",
+      "country": "Česká republika",
+      "countryCode": "+420",
+      "invoicesCount": "0"
+    },
+    "secondContact": {
+      "name": "Q&Q Estates s.r.o.",
+      "companyNumber": "24220639",
+      "taxNumber": "CZ24220639",
+      "phone": "",
+      "email": "",
+      "web": "",
+      "street": "Hvězdova 1716/2b, Nusle",
+      "city": "Praha",
+      "postcode": "14000",
+      "country": "Česká republika",
+      "countryCode": "+420",
+      "invoicesCount": "0"
+    },
+    "googleContact": {
+      "name": "Google Czech Republic, s.r.o.",
+      "companyNumber": "27604977",
+      "taxNumber": "CZ27604977",
+      "street": "Stroupežnického 3191/17, Smíchov",
+      "city": "Praha",
+      "postcode": "15000"
+    }
+  }
